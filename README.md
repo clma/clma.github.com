@@ -3,9 +3,9 @@
 clma's blog create by Jekyll and based of Jekyll-Bootstrap Foundation.
 
 
-## Blog ·ÃÎÊµØÖ·
+## Blog è®¿é—®åœ°å€
 
-[http://clma.github.io](http://clma.github.io)
+To be a **ist. [http://clma.github.io](http://clma.github.io)
 
 
 ## License

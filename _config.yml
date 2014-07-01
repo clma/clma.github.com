@@ -128,3 +128,8 @@ JB :
   #   ./_includes/custom/[HELPER]
   # where [HELPER] is the name of the helper you are overriding.
   
+  
+  # Settings for using the Kramdown Markdown interpreter instead of the Maruku.  
+  #	You may also choose to use another interpreter such as Redcarpet; 
+  # however, those upgrading from Maruku may find Kramdown to be a better fit.
+  markdown: kramdown
